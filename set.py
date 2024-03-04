@@ -1,5 +1,5 @@
 import os.sys
 os.systen("clear")
 print("setting up tools")
-chmod 777 requirement
-./requirement
+os.system("chmod 777 requirement")
+os.system("./requirement")
