@@ -1,4 +1,3 @@
-os.system("clear")
 print("setting up tools")
 apt update -y
 apt upgrade -y
