@@ -1,4 +1,3 @@
-import os.sys
 os.system("clear")
 print("setting up tools")
 apt update -y
