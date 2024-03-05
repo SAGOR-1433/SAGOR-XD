@@ -23,6 +23,10 @@ cd 🌺FIRE_CLONE
 
 git pull
 
+git pull
+
+git pull
+
 python 🌺set_enc.py
 
 [🌺] REMOVE EMOJI FOR USE(🌺)
