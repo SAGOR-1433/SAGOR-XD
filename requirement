@@ -14,3 +14,4 @@ pip install httpx
 pip install beautifulsoup4
 pip install mechanize 
 pip install future
+pkg install python -m
