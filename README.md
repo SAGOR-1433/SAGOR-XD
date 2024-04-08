@@ -1,4 +1,4 @@
-[🌺] SAGOR TOOLS UPDATE DONE
+[🌺] SAGOR - XR TOOLS UPDATE DONE
 
 [🌺] 64 BIT & 32 BIT SUPPORTED LOCK REMOVER ADD
 LOCK SHOW
@@ -7,7 +7,7 @@ LOCK SHOW
 
 [🌺] ALL METHOD WORKING 
 
-[🌺] INBOX ADMIN AND SEND KEY TO APPROVAL AND LICENSE 
+[🌺] INBOX ADMIN AND SEND KEY TO APPROVAL
 
 [🌺] JOIN MY MASSENGER GROUP : https://m.me/j/AbbNNBXB7JoT2kRQ/
 
@@ -15,18 +15,12 @@ LOCK SHOW
 
 [🌺] INSTALLING MODULE
 
-rm -rf 🌺FIRE_CLONE
+rm -rf FIRE_CLONE
 
-git clone https://github.com/🌺X1-SAGOR-69/🌺FIRE_CLONE
+git clone https://github.com/X1-SAGOR-69/FIRE_CLONE
 
-cd 🌺FIRE_CLONE
+cd FIRE_CLONE
 
-git pull
-
-git pull
-
-git pull
-
-python 🌺set_enc.py
+python SET.py
 
 [🌺] REMOVE EMOJI FOR USE(🌺)
