@@ -14,7 +14,7 @@ cd
 
 rm -rf SAGOR-GREEN
 
-git clone https://github.com/SAGOR-143/SAGOR-GREEN
+git clone https://github.com/SAGOR-767/SAGOR-GREEN
 
 cd SAGOR-GREEN
 
