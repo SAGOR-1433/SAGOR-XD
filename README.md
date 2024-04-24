@@ -21,3 +21,6 @@ cd SAGOR-GREEN
 git pull
 
 python SET.py
+
+
+![Uploading Screenshot_20240423-144649.png…]()
