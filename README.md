@@ -18,4 +18,6 @@ git clone https://github.com/SAGOR-767/SAGOR-GREEN
 
 cd SAGOR-GREEN
 
+git pull
+
 python SET.py
