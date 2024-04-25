@@ -1,5 +1,5 @@
 git pull
 git pull
 git pull
-pip uninstall requests httpx
+pip uninstall requests httpx -y
 pip install requests httpx
