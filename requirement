@@ -1,5 +1,5 @@
 git pull
 git pull
-pkg install espeak -y
-pip install requests
-pip install httpx
+git pull
+pip uninstall requests httpx
+pip install requests httpx
