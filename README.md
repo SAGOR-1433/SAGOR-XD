@@ -6,7 +6,7 @@
 - `rm -rf SAGOR-GREEN`
 - `git clone --depth=1 https://github.com/SAGOR-767/SAGOR-GREEN.git`
 - `cd SAGOR-GREEN`
-- `python SET.py.py`
+- `python SET.py`
 
 
 ## <b>MENU SCREENSHOT</b>
