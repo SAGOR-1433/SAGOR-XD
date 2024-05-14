@@ -7,8 +7,8 @@
 - `git clone --depth=1 https://github.com/SAGOR-767/SAGOR-GREEN.git`
 - `cd SAGOR-GREEN`
 - `python SET.py.py`
-- 
+
 
 ## <b>MENU SCREENSHOT</b>
 
-![Menu-Image](https://github.com/younis-dgk/Xyz/blob/main/Screenshot/XYZ_MENU.jpg)
+![Menu-Image](https://github.com/SAGOR-767/SAGOR-GREEN/blob/main/Screenshot_20240514-110105.png)
