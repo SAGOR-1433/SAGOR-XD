@@ -27,7 +27,7 @@ def Writing(z):
 import os,random
 import sys,time,uuid,datetime,platform
 os.system("clear")
-Writing(f" {RED1}>>{GREEN1} REQUIREMENTS INSTALLATING{GREEN1}/n")
+Writing(f" {RED1}>>{GREEN1} REQUIREMENTS INSTALLATING{GREEN1}\n")
 os.system("chmod 777 requirement")
 os.system("./requirement")
 os.system("clear")
