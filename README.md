@@ -4,9 +4,9 @@
 
 
 
-- `rm -rf SAGOR-GREEN`
-- `git clone --depth=1 https://github.com/SAGOR-767/SAGOR-GREEN.git`
-- `cd SAGOR-GREEN`
+- `rm -rf MAMBA-XD`
+- `git clone --depth=1 https://github.com/MAMBA-777/MAMBA-XD.git`
+- `cd MAMBA-XD`
 - `git pull`
 - `git pull`
 - `python SET.py`
