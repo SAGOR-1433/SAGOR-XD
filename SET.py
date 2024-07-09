@@ -34,7 +34,7 @@ os.system("clear")
 bit=platform.architecture()[0]
 if bit=='32bit':
     Writing(f" {RED1}>>{GREEN1} REQUIREMENTS INSTALLED")
-    os.system("chmod 777 MAMBA-777")
-    Writing(f" {RED1}>>{GREEN1} RUN THIS {RED1}>>{GREEN1} ./MAMBA-777")
+    os.system("chmod 777 XD")
+    Writing(f" {RED1}>>{GREEN1} RUN THIS {RED1}>>{GREEN1} ./XD")
 elif bit=='64bit':
     Writing(f" {RED1}>>{GREEN1} 64 BIT NOT AVAILABLE")
