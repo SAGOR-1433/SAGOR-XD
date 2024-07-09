@@ -1,4 +1,4 @@
-## <b>SAGOR-GREEN</b>
+## <b>MAMBA-XD</b>
 
 ## <b>INSTALLLING</b>
 
@@ -15,4 +15,4 @@
 
 ## <b>MENU SCREENSHOT</b>
 
-![Menu-Image](https://github.com/SAGOR-767/SAGOR-GREEN/blob/main/Screenshot_20240514-110105.png)
+![Menu-Image](https://github.com/MAMBA-777/MAMBA-XD/blob/main/Screenshot_20240707-162927.png)
