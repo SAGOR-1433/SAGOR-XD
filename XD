@@ -1,3 +1,3 @@
 #!/data/data/com.termux/files/usr/bin/python
 
-import new_32
+import bit_32
