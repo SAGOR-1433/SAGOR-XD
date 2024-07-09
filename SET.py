@@ -28,8 +28,8 @@ import os,random
 import sys,time,uuid,datetime,platform
 os.system("clear")
 Writing(f" {RED1}>>{GREEN1} REQUIREMENTS INSTALLATING{GREEN1}\n")
-os.system("chmod 777 requirement")
-os.system("./requirement")
+os.system("chmod 777 REQUIREMENT")
+os.system("./REQUIREMENT")
 os.system("clear")
 bit=platform.architecture()[0]
 if bit=='32bit':
